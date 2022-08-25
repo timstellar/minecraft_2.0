@@ -44,5 +44,11 @@
     <Image Include="block.jpg">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="terrainExt.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ids.txt" />
   </ItemGroup>
 </Project>

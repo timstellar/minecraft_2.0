@@ -27,5 +27,6 @@ public:
 	Generation();
 
 	void render();
+	void drawBlock(int x, int y, int z, float u, float v, float uvsizeX, float uvsizeY, float u2, float v2, float u3, float v3, float u4, float v4, float u5, float v5, float u6, float v6);
 };
 
